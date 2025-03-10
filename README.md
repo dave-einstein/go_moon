@@ -1,16 +1,9 @@
 # go_moon
 
-A new Flutter project.
+A sample Flutter application that allows users to book space travel to different planet.
 
-## Getting Started
+This is my first Flutter project and I am excited to share it with you.
 
-This project is a starting point for a Flutter application.
+Below is the UI
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/dave-einstein/go_moon/blob/main/Screenshot%202025-03-10%20at%2016.14.33.png)
